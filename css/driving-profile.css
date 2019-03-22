@@ -1,0 +1,18 @@
+#hypothesis ul {
+    list-style: circle;
+    font-size: 16px;
+    font-family: 'Lato', Helvetica, Arial, sans-serif;
+}
+
+#hypothesis li {
+    font-size: 16px;
+}
+#evaluation ul {
+    list-style: circle;
+    font-size: 16px;
+    font-family: 'Lato', Helvetica, Arial, sans-serif;
+}
+
+#evaluation li {
+    font-size: 16px;
+}
